@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar</h1>
-<h3 align="center">Frontend developer eager to expand skillset into full-stack development with a focus on the MERN stack. Currently honing backend proficiency with Express.js to complement frontend expertise. Passionate about creating seamless user experiences and seeking to master the interconnected world of modern web development.</h3>
+<h3 align="center">Frontend developer eager to expand skillset into full-stack development. Currently honing backend proficiency with Django to complement frontend expertise. Passionate about creating seamless user experiences and seeking to master the interconnected world of modern web development.</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-in-react-iota.vercel.app/](https://portfolio-in-react-iota.vercel.app/)
 
