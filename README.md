@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rajiv.kr0829@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iB4SZXUWqZMIqPsB1_RXBvfnWDHxlc4h/view](https://drive.google.com/file/d/1iB4SZXUWqZMIqPsB1_RXBvfnWDHxlc4h/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LRS0fnjj8iuZImmUzaizUvy75jj0LlBl/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
